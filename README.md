@@ -2,7 +2,9 @@
 
 ## Olá, Eu sou Isabelle Braz! 
 
-...
+Todos me chamam de Braz. Sou natural de Recife e sempre fui apaixonado por computadores e tecnologia no geral. 
+
+Com formação técnica pelo Senac e Senai. Minha trajetória inclui experiências anteriores em suporte técnico, diagnosticos complexos e atendimento técnico ao publico. No momento estou iniciando um técnologo em Analise e Desenvolvimento de Sistemas na Descomplica UniAmerica e um Bootcamp no Decola Tech na DIO.
 
 <br>
 
